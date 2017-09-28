@@ -1,0 +1,62 @@
+node liri.js: movie-this Jaws
+node liri.js: spotify-this-song Sailing
+COMMAND: node liri.js movie-this 'Bambie'
+Movie Title: undefined
+Release Year: undefined
+Production Country: undefined
+Plot: undefined
+Actors/Actresses: undefined
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+IMDB Rating: undefined
+Language: undefined
+COMMAND: node liri.js movie-this 'Jaws'
+Release Year: 1975
+Movie Title: Jaws
+Production Country: USA
+Language: English
+Plot: A giant great white shark arrives on the shores of a New England beach resort and wreaks havoc with bloody attacks on swimmers, until a local sheriff teams up with a marine biologist and an old seafarer to hunt the monster down.
+IMDB Rating: 8.0
+Actors/Actresses: Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/jaws/
+Rotten Tomatoes Rating: N/A
+COMMAND: node liri.js movie-this 'Beaches'
+Movie Title: Beaches
+Release Year: 1988
+IMDB Rating: 6.8
+Production Country: USA
+Language: English
+Plot: A privileged rich debutante and a cynical struggling entertainer share a turbulent, but strong childhood friendship over the years.
+Actors/Actresses: Bette Midler, Barbara Hershey, John Heard, Spalding Gray
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/beaches/
+COMMAND: node liri.js movie-this 'The'
+Movie Title: The Shawshank Redemption
+Release Year: 1994
+IMDB Rating: 9.3
+Production Country: USA
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors/Actresses: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/shawshank_redemption/
+COMMAND: node liri.js movie-this 'Sleepless'
+Movie Title: Sleepless
+Release Year: 2017
+IMDB Rating: 5.6
+Production Country: USA
+Language: English
+Plot: A cop with a connection to the criminal underworld scours a nightclub in search of his kidnapped son.
+Actors/Actresses: Jamie Foxx, Michelle Monaghan, Scoot McNairy, Dermot Mulroney
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/sleepless_2017/
+COMMAND: node liri.js movie-this 'Sleepless in Seattle'
+Movie Title: Sleepless in Seattle
+Release Year: 1993
+IMDB Rating: 6.8
+Production Country: USA
+Language: English
+Plot: A recently widowed man's son calls a radio talk-show in an attempt to find his father a partner.
+Actors/Actresses: Tom Hanks, Ross Malinger, Rita Wilson, Victor Garber
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/sleepless_in_seattle/
